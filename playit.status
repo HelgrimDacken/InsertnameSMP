@@ -1,54 +1,95 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.23): 1726865665992 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.23): 1726872179098 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 seller-sick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726865669062 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726872182153 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 seller-sick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726865672142 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726872185211 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 seller-sick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726865675210 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726872188277 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 seller-sick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726865678271 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726872191337 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 seller-sick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726865681352 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726872194399 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 seller-sick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726865684420 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726872197462 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 seller-sick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726865687489 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726872200524 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 seller-sick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726865690552 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726872203596 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 seller-sick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726865693645 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726872206658 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 seller-sick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726865696703 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726872209718 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+seller-sick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726872212780 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+seller-sick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726872215837 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+seller-sick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726872230945 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+seller-sick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726872234025 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+seller-sick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726872237089 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+seller-sick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1726872252182 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+seller-sick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726872255244 tunnel running, 1 tunnels registered
 
 
 TUNNELS
