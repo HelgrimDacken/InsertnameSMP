@@ -1,0 +1,17 @@
+{
+	id: "6ba9b3c0-d7db-3be8-95ad-70b93d3b7828"
+	type: "player"
+	player_name: "HelgrimDacken"
+	ranks: {
+		6ba9b3c0-d7db-3be8-95ad-70b93d3b7828: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "HelgrimDacken"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF7F59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

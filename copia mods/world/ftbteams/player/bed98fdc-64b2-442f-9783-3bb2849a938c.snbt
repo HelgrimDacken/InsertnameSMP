@@ -1,0 +1,17 @@
+{
+	id: "bed98fdc-64b2-442f-9783-3bb2849a938c"
+	type: "player"
+	player_name: "HelgrimDacken"
+	ranks: {
+		bed98fdc-64b2-442f-9783-3bb2849a938c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "HelgrimDacken"
+		"ftbteams:description": ""
+		"ftbteams:color": "#F659FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
